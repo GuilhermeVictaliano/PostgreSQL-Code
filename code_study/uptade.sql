@@ -1,0 +1,1 @@
+update usuarios set idade = 22 where nome = 'Guilherme';

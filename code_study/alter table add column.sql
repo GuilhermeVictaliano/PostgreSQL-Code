@@ -1,0 +1,1 @@
+alter table produtos add column id_categoria integer;
